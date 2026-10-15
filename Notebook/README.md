@@ -1,1 +1,1 @@
-Jupyter Notebooks für die IDA und die EDA.
+Jupyter Notebooks für IDA und EDA.
