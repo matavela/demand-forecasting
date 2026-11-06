@@ -1,1 +1,1 @@
-Jupyter Notebooks für IDA, EDA und Data Preparation.
+Dieser Ordner enthält die Jupyter Notebooks des Projekts **House Demand Forecasting**. Sie dokumentieren die Datenprüfung, explorative Analyse und Aufbereitung der Immobilien- und Wirtschaftsindikatoren. Darauf aufbauend werden verschiedene Modelle zur Prognose monatlicher Pending Listings trainiert und verglichen. Abschließend werden die Vorhersagen im bekannten Testzeitraum bewertet und die Prognosefehler untersucht. Die Notebooks sollten in ihrer nummerierten Reihenfolge ausgeführt werden.
