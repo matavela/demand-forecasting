@@ -208,7 +208,7 @@ Die wichtigsten Dateien der Modellierung sind:
 | Problem | Vorgehen |
 | --- | --- |
 | Eine Rohdatendatei wird nicht gefunden | `data_dir` bzw. `RAW_DIR` prüfen und auf den lokalen Ordner `Datensätze` setzen |
-| Notebook 04 findet die vorbereiteten Daten nicht | Notebook 03 vollständig ausführen und die Abweichung `data_preparation_A` / `data_preparation` korrigieren |
+| Notebook 04 findet die vorbereiteten Daten nicht | Notebook 03 vollständig ausführen und die Abweichung `data_preparation_A` korrigieren |
 | Notebook 05.1 findet keine oder mehrere vorbereitete Datenordner | `prepared_data_dir` explizit auf den gewünschten Ordner mit allen 13 Eingabedateien setzen |
 | `evaluation_summary.csv` fehlt in Notebook 05.3 | Notebook **05.2** einschließlich des letzten Exportblocks ausführen und denselben `results_dir` verwenden |
 | Ein importiertes Paket fehlt | Paket in der Python-Umgebung des tatsächlich ausgewählten Notebook-Kernels installieren |
